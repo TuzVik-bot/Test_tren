@@ -1,0 +1,6 @@
+{
+  "name": "Безопасный ИИ в международной логистике",
+  "description": "Интерактивный корпоративный тренажер и экзамен по кибербезопасности и регламенту использования ИИ в международной логистике и ВЭД.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
